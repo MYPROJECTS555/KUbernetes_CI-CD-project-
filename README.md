@@ -1,0 +1,1 @@
+This brnach contain EKS cluster installations details , we are lunching the server using terraform and git . It is CI/CD pipeline to create the admin server and installing the eks on top of the adminserver using terraform , git and jenkins. 
