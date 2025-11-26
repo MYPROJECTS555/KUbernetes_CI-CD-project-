@@ -1,1 +1,3 @@
-This brnach contain EKS cluster installations details , we are lunching the server using terraform and git . It is CI/CD pipeline to create the admin server and installing the eks on top of the adminserver using terraform , git and jenkins. 
+# complete-cicd-project-microdegree
+###  to update git webhook use this http://50.17.127.237:8080//github-webhook/
+## polling
